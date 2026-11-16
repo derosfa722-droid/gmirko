@@ -1,2 +1,2 @@
-# gmirko
+# index.html
 gmirko news
